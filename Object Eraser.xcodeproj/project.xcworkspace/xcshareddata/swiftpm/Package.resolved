@@ -1,0 +1,15 @@
+{
+  "originHash" : "07280b966ac43a3ffbe2a1a87139354c675541ec4f60f85efe45740741f93863",
+  "pins" : [
+    {
+      "identity" : "swiftuicoordinator",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/erikdrobne/SwiftUICoordinator",
+      "state" : {
+        "revision" : "f254c7398ce265fa44a5991c437c5e4e42982815",
+        "version" : "2.3.4"
+      }
+    }
+  ],
+  "version" : 3
+}
